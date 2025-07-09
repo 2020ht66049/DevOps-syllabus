@@ -1,0 +1,23 @@
+DRY: dont repeat yourself
+
+Requirement: Print the diamond pattern as below-
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * * * *
+* * * * * * *
+* * * * * * * *
+* * * * * * * * *
+
+Solution: https://www.programiz.com/python-programming/online-compiler/
+print("*")
+print("* *")
+print("* * *")
+print("* * * *")
+print("* * * * *")
+print("* * * * * *")
+print("* * * * * * *")
+print("* * * * * * * *")
+print("* * * * * * * * *")
